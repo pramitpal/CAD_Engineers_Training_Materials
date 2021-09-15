@@ -18,6 +18,9 @@ You need to complete the following courses:
 
 ## Open Source Analog Design for Engineers (Required only for Analog Designers / Analog Design Automation full timers)
 You will need to install the following tools and procedure is outlined as follows:
+* [CMOS Analog Integrated Circuit Design Fundamentals](https://www.youtube.com/playlist?list=PLUJOuapA83-QlWbnMJvoyQucGaBlpBF0F)
+  - Need to watch untill video 7 lectures and understand regions.
+* 
 
 ## Open Source Digital Design for Engineers (Required only for Digital Designers / Digital Design Engineers)
 
@@ -27,3 +30,7 @@ You will need to install the following tools and procedure is outlined as follow
 - [ ] Create a Markdown documentation for all the learnings and findings you have made in your git reapo.
 - [ ] Complete the Analog Design section if you are in Analog Design position or internship.
 - [ ] Complete the Digital Design section if you are in Digital Design position or internship.
+
+
+## Extra Videos:
+* [Digital VLSI Design (RTL to GDSII)](https://www.youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)
