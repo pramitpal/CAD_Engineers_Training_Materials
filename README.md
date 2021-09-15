@@ -44,7 +44,7 @@ You will need to install the following tools and procedure is outlined as follow
 
 
 ## Checklist to confirm that you have completed all tasks required.
-- [ ] Complete all linux trainings. Each training course, you will need to take screenshot of completeness after finishing it and sending an email to the following email <training@mabrains.com>
+- [ ] Complete all linux trainings. Each training course, you will need to take screenshot of completeness after finishing it and saving it in your training repo on github.
 - [ ] Create a Markdown documentation for all the learnings and findings you have made in your git reapo.
 - [ ] Complete the Analog Design section if you are in Analog Design position or internship.
 - [ ] Complete the Digital Design section if you are in Digital Design position or internship.
