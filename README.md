@@ -39,6 +39,7 @@ You will need to install the following tools and procedure is outlined as follow
   - You need to write a small netlist of voltage divider and simulat DC simulation and send me results.
   - You need to read the manual and understand different simulation types available.
 * You need to design a Millar compensated OTA with a minimum of 40 dB Gain with single output using Skywater PDK.
+* Review the design methodology and the automation scripts in [Analog Blocks By Mabrains](https://github.com/mabrains/Analog_blocks)
 
 ## Open Source Digital Design for Engineers (Required only for Digital Designers / Digital Design Engineers)
 
