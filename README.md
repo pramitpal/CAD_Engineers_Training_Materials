@@ -17,10 +17,17 @@ You need to complete the following courses:
 * [Regex Training](https://www.rexegg.com/)
 * [Grep Command](https://phoenixnap.com/kb/grep-command-linux-unix-examples)
 * [Find Command](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
+* [Python For Everybody](https://www.coursera.org/specializations/python)
+  - You need to finish only the first 2 courses.
+* [Python Introduction](https://www.youtube.com/watch?v=rfscVS0vtbw)
+* [Introduction of Numerical Programming in Python](https://www.youtube.com/watch?v=ZB7BZMhfPgk)
+* [Python OOP](https://www.youtube.com/playlist?list=PLiPFKCVZWHKqrD-t4639uC5VIP6r_PUPr)
+* You need to find all bins in Skywater 130nm for nfet_1v8 and pfet_1v8 from the models using either python or linux commands.
 
 
 ## Open Source Analog Design for Engineers (Required only for Analog Designers / Analog Design Automation full timers)
 You will need to install the following tools and procedure is outlined as follows:
+* [Introduction to Model Binning](http://literature.cdn.keysight.com/litweb/pdf/iccap2008addon2/icmdl/icmdl05a11.html)
 * [CMOS Analog Integrated Circuit Design Fundamentals](https://www.youtube.com/playlist?list=PLUJOuapA83-QlWbnMJvoyQucGaBlpBF0F)
   - Need to watch until video 7.
 * [Digital Integrated Circuits (2020-21)](https://www.youtube.com/playlist?list=PLZU5hLL_713yF0Lkwjj9O3ttVIuhPV-me)
