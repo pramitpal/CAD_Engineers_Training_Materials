@@ -1,9 +1,7 @@
-# New Hire Training and Onboarding
+# CAD/EE Engineers Training Materials
 ----------------------------------
 
-First of all, welcome to Mabrains. We hope you have an exciting journey with us. Reaching this Git repo means that you have made several steps already to your ultimate goal of onboarding.
-
-You need to make sure to complete all the following.
+This repo is intended to provide some guidence on required training for material required to be able to use Open Source tools more efficiently.
 
 ## Linux Training for Engineers
 You need to complete the following courses:
