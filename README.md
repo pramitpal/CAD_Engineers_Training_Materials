@@ -50,6 +50,7 @@ You will need to complete the following:
 * [Chip Manufacturing Intel](https://www.youtube.com/watch?v=_VMYPLXnd7E)
 * [Make Semiconductor at Home](https://www.youtube.com/watch?v=qCSIGejNT4M)
 * [Micro and Nano Fabrication](https://www.youtube.com/playlist?list=PLM2eE_hI4gSDjK4SiDbhpmpjw31Xyqfo_)
+* [The Art of Analog Layoout, 2nd Edition](https://www.amazon.com/Art-Analog-Layout-2nd/dp/0131464108)
 
 ## Checklist to confirm that you have completed all tasks required.
 - [ ] Complete all linux trainings. Each training course, you will need to take screenshot of completeness after finishing it and saving it in your training repo on github.
