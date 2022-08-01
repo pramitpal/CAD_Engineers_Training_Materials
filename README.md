@@ -8,6 +8,10 @@ You need to complete the following courses:
 * [Coursera Linux Basics](https://www.coursera.org/projects/command-line-linux)
 * [Git Training](https://www.coursera.org/learn/git-distributed-development?specialization=oss-development-linux-git#about)
 * [Markdown Training](https://www.markdowntutorial.com/)
+* Makefile training:
+  1. [What Is a Make File? How To "Make" One](https://www.youtube.com/watch?v=VCmWzYHh7Y8&ab_channel=srcmake)
+  2. [What is a Makefile and how does it work?](https://opensource.com/article/18/8/what-how-makefile)
+  3. [Makefile Tutorial](https://makefiletutorial.com/#top)
 * [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)
 * [NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)
 * [Learn Shell Scripting](https://www.learnshell.org/)
